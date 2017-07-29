@@ -1,0 +1,7 @@
+This is project is to build a three dimentional modeling system
+that uses the GLScene project to render, but has an object oriented 
+function building system to allow developers to easilly create complex visual objects 
+based on complex equations or transformationsm instead of manual design.
+
+This has the potencial to allow users to create their own pieces or 3D objects for 3D printing, which can 
+then be easilly scaled or modified through function parameters.
